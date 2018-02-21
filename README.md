@@ -1,0 +1,2 @@
+# Visual-Temporal-Pattern-Encoding-in-EEG
+This repository contains MatLab codes for the visual temporal pattern encoding (VisA) project that I am working on at the auditory neuroscience laboratory in Albert Einstein College of Medicine.  The VisA project aims to find the electrophysiological markers for temporal pattern encoding in the visual system. This repository includes the codes for implementing the experiment, extracting behavioral data from XML files, and brain electroencephalogram (EEG) data analysis and visualization. 
